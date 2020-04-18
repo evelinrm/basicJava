@@ -1,0 +1,106 @@
+testAgregarContacto(){
+navegar("facebook.com")
+login("omar.navarro@gmail.com", "Test@123")
+buscar("Jose Basurto")
+solicitarAmistad("Vive en Ciudad Obregon")
+}
+
+testLikePagina(){
+navegar("Fb.com")
+login("omar.navarro@gmail.com", "Test@123")
+buscar("adidas")
+likePagina("mejores tenis")
+}
+
+
+1.  agregar un contacto
+
+navegar(url){
+    navegar a la pagina de facebook
+    validar que se cargan los elementos de la pagina de login
+    *user
+    *password
+    *login
+}
+
+login(username, password){
+     ingresar usuario en el campo de usrname
+     ingresar el password en el otro campo de password
+     dar click en el boton login
+     validar aparezca la pagina home
+     * elemento de busqueda
+     * lupa
+     * foto
+     * nombre
+}
+
+buscar(nombre){
+      ingresar el nombre de la persona en el campo de busqueda
+      validar que aparezcan opciones en un dropdown de resultados
+      click al boton de la lupa
+
+}
+
+ validarResultados(informacionPersona, pestaña){
+       validar que aparecen varios resultados en la pesta;a de 'todos'
+       dar click en la pesta;a de indicada en parametros
+       validar que aparecen mas resultados en la pesta;a de indicada en parametros
+       hacer scroll hasta encontrar a la persona que tiene la informacion personal
+
+       if(pestaña=personas){
+       dar click en el boton 'Agregar'
+
+       validar que aparece 'Solicitud de amistad enviada'
+                  * foto
+                  * nombre
+
+       } elseif(pestaña=paginas) {
+       dar click en el boton 'Me gusta'
+       validar que aparece 'Te gusta'
+       }
+}
+
+2.  Darle like a una pagina
+
+navegar(url){
+    navegar a la pagina de facebook
+    validar que se cargan los elementos de la pagina de login
+    *user
+    *password
+    *login
+}
+
+login(username, password){
+     ingresar usuario en el campo de usrname
+     ingresar el password en el otro campo de password
+     dar click en el boton login
+     validar aparezca la pagina home
+}
+
+buscar(nombre){
+      ingresar el nombre de la pagina en el campo de busqueda
+       validar que aparezcan opciones en un dropdown de resultados
+       click al boton de la lupa
+        * elemento de busqueda
+        * lupa
+        * foto
+        * nombre
+}
+
+validarResultados(informacionPersona, pestaña){
+       validar que aparecen varios resultados en la pesta;a de 'todos'
+       dar click en la pesta;a de indicada en parametros
+       validar que aparecen mas resultados en la pesta;a de indicada en parametros
+       hacer scroll hasta encontrar a la persona que tiene la informacion personal
+
+       if(pestaña=personas){
+       dar click en el boton 'Agregar'
+
+       validar que aparece 'Solicitud de amistad enviada'
+                  * foto
+                  * nombre
+
+       } elseif(pestaña=paginas) {
+       dar click en el boton 'Me gusta'
+       validar que aparece 'Te gusta'
+       }

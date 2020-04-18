@@ -1,0 +1,20 @@
+login (){
+1. abrir navegador
+2. ingresar la url
+3. verificar que la pagina cargo
+* imagen de sinatra
+* el link de login
+4. Dar click a link de login
+5. verificar que se abre pagina de login
+* campo de usuario
+* campo de password
+* boton de login
+6. ingresar las credenciales
+* usuario es frank
+* password es sinatra
+7 darle click a login
+8. verificar mensaje de que estoy logeado
+* mensaje de bienvenida dice "You are now logged in as frank"
+* aparece la imagen
+* link de log out
+}

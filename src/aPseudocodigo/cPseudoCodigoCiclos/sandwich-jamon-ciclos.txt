@@ -1,0 +1,25 @@
+// 5 sandwiches de jamon
+//10 sandwiches de bolonia
+
+contador_sandwiches es cero
+while(contador_sandwiches es menor que cinco){
+hacerSandwichJamon()
+contador_sandwiches se aumenta uno
+}
+
+contador_sandwiches es cero
+while(contador_sandwiches es menor que diez){
+hacerSandwichBolonia()
+contador_sandwiches se aumenta uno
+}
+
+
+//Pa comermemelos
+
+contador_sandwiches_bolonia es diez
+while(contador_sandwiches es mayor que cero){
+comerSandwichJamon()
+contador_sandwiches_bolonia se decrementa uno
+}cont
+
+imprimir ("que tragon soy")

@@ -1,7 +1,7 @@
 * Reúna los ingredientes
     Pan ( Rebanado, Barra, Blanco, Integral, Trigo, Centeno )
     aderezo ( Mayonesa, crema, mostaza ),
-    jamón ( Pierna, pavo ),
+    jamón ( Pierna, pavo )
     Queso ( Chihuahua, manchego, gouda )
     vegetales ( lechuga, tomate, cebolla, pepino, pepinillos )
     Picante ( Salsa, chile de diversos tipos)

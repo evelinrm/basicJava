@@ -1,0 +1,21 @@
+void verFotosFacebookAmigo(nombreAmigo, nombreAlbum, numFotos, usuario, password) {
+    loginFacebook(usuario, password)
+    buscarAmigo(nombreAmigo)
+    entrarAlbums(nombreAlbum)
+    verFotos(numFotos)
+}
+
+boolean loginFacebook(usuario, password) {
+
+}
+boolean buscarAmigo(nombreAmigo) {
+
+}
+
+void entrarAlbums(nombreAlbum) {
+
+}
+
+void verFotos(numFotos) {
+
+}

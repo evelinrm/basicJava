@@ -1,0 +1,51 @@
+createSong() {
+    login()
+    listarCanciones()
+    ingresarDatosCanciones()
+    validarDatosCanciones()
+}
+
+login() {
+1. abrir navegador
+2. ingresar la url
+3. verificar que la pagina cargo
+* imagen de sinatra
+* el link de login
+4. Dar click a link de login
+5. verificar que se abre pagina de login
+* campo de usuario
+* campo de password
+* boton de login
+6. ingresar las credenciales
+* usuario es frank
+* password es sinatra
+7 darle click a login
+8. verificar mensaje de que estoy logeado
+* mensaje de bienvenida dice "You are now logged in as frank"
+* aparece la imagen
+* link de log out
+}
+
+listarCanciones() {
+1. Clic en Songs tab
+2. Validar que se muestre lista de canciones
+3. Validar Agregar cancion link
+}
+
+ingresarDatosCanciones() {
+1. Dar clic en "Create New Song"
+2. Validar elementos de la pagina
+(title, lenght, date, lyrics, save song button, logout link)
+3. Llenar campos
+4. Clic en save song
+}
+
+validarDatosCanciones() {
+5. Validar que se agrego cancion
+* Datos exitosos
+* Mensaje "Song successfully added"
+* Edit song link
+* Delete this song button
+* Boton like
+* Link log out
+}
