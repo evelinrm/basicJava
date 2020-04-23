@@ -1,7 +1,7 @@
 createSong() {
     login()
     listarCanciones()
-    ingresarDatosCanciones()
+    crearCancion()
     validarDatosCanciones()
 }
 
@@ -32,7 +32,7 @@ listarCanciones() {
 3. Validar Agregar cancion link
 }
 
-ingresarDatosCanciones() {
+crearCancion() {
 1. Dar clic en "Create New Song"
 2. Validar elementos de la pagina
 (title, lenght, date, lyrics, save song button, logout link)

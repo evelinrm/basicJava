@@ -1,0 +1,6 @@
+createSong() {
+    login()
+    listarCanciones()
+    ingresarDatosCanciones()
+    validarDatosCanciones()
+}
