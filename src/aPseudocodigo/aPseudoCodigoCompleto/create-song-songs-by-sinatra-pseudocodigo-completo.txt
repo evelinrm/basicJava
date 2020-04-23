@@ -20,4 +20,32 @@
 * mensaje de bienvenida dice "You are now logged in as frank"
 * aparece la imagen
 * link de log out
-9.
+9. Clic en songs tab
+10. Verificar pagina songs
+* Se muestra lista de canciones
+11. Clic en boton create song
+12. Verificar que cargo pagina de crear canciones
+* Add a new song titulo
+* Campo de titulo
+* Campo de Duración
+* Campo de fecha
+* Campo de Letra
+* Boton de save song
+* Link de log out
+13. Llenar campos correctamente
+* Campo de titulo (This love)
+* Campo de Duración (180)
+* Campo de fecha (01/12/1999)
+* Campo de Letra (This love has taken its toll on me)
+14. Clic en el boton de guardar cancion
+15. Verificar que la pagina de cancion agregada satisfactoriamente es mostrada
+* Mensaje de "song successfully added"
+* Titulo de la nueva cancion
+* Fecha de liberación
+* Duracion
+* Letra
+* Mensaje de "Nobody has liked this song so far!"
+* Botón de like
+* Link de edit this song
+* Botón de delete this song
+* Link de log out
