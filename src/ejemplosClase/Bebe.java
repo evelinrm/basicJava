@@ -4,7 +4,7 @@ public class Bebe {
     String nombre;
     double peso;
     int numeroPañales;
-    double alura;
+    double altura;
     int edad;
     double intesidadVoz;
     String sexo;

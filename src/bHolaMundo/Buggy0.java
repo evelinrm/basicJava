@@ -1,4 +1,6 @@
 package bHolaMundo;
+//si no se encuentra esta liberia truena la instruccion
+//import libs.Input;
 
 public class Buggy0 {
 
