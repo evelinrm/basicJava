@@ -1,0 +1,6 @@
+es cancion de frank sinatra?
+if(respuesta es si){
+    crearCancionDeFrankSinatra()
+} else { //cuando respuesta es no
+    crearCancionDeOtroCantante()
+}

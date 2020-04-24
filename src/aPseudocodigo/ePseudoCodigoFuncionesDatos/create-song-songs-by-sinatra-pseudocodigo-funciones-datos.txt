@@ -1,0 +1,27 @@
+createSong(username, password, title, lenght, date, lyrics){
+        login(username, password)
+        listarCanciones()
+        crearCancion(title, lenght, date, lyrics)
+        validarDatosCanciones(title, lenght, date, lyrics)
+}
+
+login(username, password){
+        Clic en username campo
+        Llenar campo username (username)
+        Clic en password campo
+        Llenar campo password (password)
+        Clic en boton login
+}
+
+listarCanciones(){
+        Clic en canciones tab
+}
+
+crearCancion(title, lenght, date, lyrics){
+        Clic en crear canciones
+        Llenar formulario(title, length, date, lyrics)
+}
+
+validarDatosCanciones(title, length, date, lyrics){
+        asegurarse del titulo, duracion, fecha y letra sean los de la cancion agregada
+}

@@ -1,0 +1,19 @@
+navegarALoginPage(url){
+    Ir a la pagina de login
+}
+
+validarPaginaDeLogin(){
+    validar que el campo de username y contraseña se muestren correctamente
+}
+
+login(username, password){
+    clic en campo de username
+    llenar campo de username (username)
+    clic en campo de password
+    llenar en campo de password (password)
+    clic en boton login
+}
+
+validarLoginSatisfactorio(){
+    validar elementos en pagina de login satisfactorio
+}

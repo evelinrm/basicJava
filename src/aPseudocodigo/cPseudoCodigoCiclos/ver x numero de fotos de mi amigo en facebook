@@ -1,6 +1,59 @@
 verFotosFacebookAmigo() {
-    loginFacebook()
-    buscarAmigo()
-    entrarAlbums()
+    navegarPagina()
+    login()
+    buscar()
+    seleccionarUsuario()
+    abrirFotos()
+    seleccionarAlbum()
     ver20Fotos()
+}
+
+navegar(url){
+    navegar a la pagina de facebook
+    validar que se cargan los elementos de la pagina de login
+    *user
+    *password
+    *login
+}
+
+login(username, password){
+     ingresar usuario en el campo de username
+     ingresar el password en el otro campo de password
+     dar click en el boton login
+     validar aparezca la pagina home
+     * elemento de busqueda
+     * lupa
+     * foto
+     * nombre
+}
+
+buscar(nombre){
+      ingresar el nombre de la persona en el campo de busqueda
+      click al boton de la lupa
+}
+
+seleccionaUsuario(){
+    click en usuario deseado
+    validar que se abre el perfil del usuario
+    * Pestaña fotos
+}
+
+abrirFotos(){
+    clic en tab fotos
+    esperar a que se muestren albums
+}
+
+seleccionarAlbums(){
+    clic en un album
+    fotos>=20{
+    contadorFotos es cero
+    while(contadorFotos es menor que 20){
+    clic en foto
+    clic en boton siguiente
+    contador se aumenta en uno
+   }
+    }else{
+    clic en back
+    return
+    }
 }

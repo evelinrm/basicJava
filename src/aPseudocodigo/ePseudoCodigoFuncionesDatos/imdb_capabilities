@@ -1,10 +1,3 @@
-Equipo:
-Susana Zapari
-Ernesto Trejo
-Evelin Ramos
-
-
-
 Imdb
 Capabilities
 
@@ -15,65 +8,35 @@ Capabilities
 5. Login
 
 
-1.  Login correcto
-
-registroCorrecto() {
-	navegar(“https://imdb.com”)
-	registrarCuenta(cris, cris@cris.com, test@1234)
-	validarCuenta(cris)
-}
-
-navegar(url) {
-	Paso 1
-	Paso 2
-	verification 1
-
-}
-
-registrarCuenta(){
+registrarCuenta(name, email, password, reenter password){
     Clic en sign in
     Clic en boton Create new Account
     Llenar formulario (name, email, password, reenter password)
     Clic en boton Create your IMDb account
 }
 
-validarCuenta(){
-    Validar que entre a pagina Home
-    Validar datos correctos del usuario
+navegar(url) {
+	abrir navegador
+	escribir la url en la barra
+	darle click a enter
+	validar que la pagina no tiene errores
 }
 
-
-
-buscarPeliculas(){
-    Dar clic en campo de search
-    Añadir nombre de la pelicula()
-    Validar lista de peliculas
-    Clic en pelicula
-    Validar que entra a la pagina de la pelicula
+loginCorrecto() {
+	navegar(“https://imdb.com”)
+	ingresarCredenciales(“frank”, “Sinatra”)
+	validarUsuario(“frank”)
 }
 
-filtrarPeliculas(){
-    Dar clic en lista desplegable All
-    Seleccionar un tipo de filtro
-    Ingresar nombre del filtro (titulo, episodios de tv, celebridades, compañias, palabra clave)
-    Validar lista de peliculas
-    Clic en pelicula
-    Validar que entra a la pagina de la pelicula
+ingresarCredenciales(usuario, password). {
+	dar click en la liga de sign in
+	dar click en “sign in with imdv”
+	ingresar el usuario en el campo
+	ingresar el password en el campo
+	dar click en el boton de sign-in
 }
 
-busquedaAvanzada(){
-    Dar clic en lista desplegable All
-    Dar clic en opcion busqueda avanzada
-    Validar que navegue a la pagina de busqueda avanzada (https://www.imdb.com/search/)
-    Seleccionar un tipo de filtro (trama, citas, trivias, comedia, creditos locos, locacion de la filmacion, cancion de pelicula, versiones)
-    Ingresar nombre dependiendo del filtro seleccionado
-    Clic en search
-    Clic en pelicula
-    Validar que entra a la pagina de la pelicula
+validarUsuario(nombreUsuario) {
+	asegurarse que el nombreUsuario aparece en la esquina superior derecha
 }
-
-
-
-
-
 
