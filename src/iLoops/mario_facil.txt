@@ -1,12 +1,12 @@
 Implementa un programa que imprima una media piramide de una altura especificada por el usuario, como abajo:
 
 $ ./mario
-Altura: 5
-    ##
-   ###
-  ####
- #####
-######
+Altura: 5 // pedir altura
+    ##  // utilizar ciloc para imprimir numero de renglones
+   ###  // para imprimir un renglon tengo que imprimir espaciones, luego gatitos y salto de linea
+  ####  // problema numero: cuandtos espacios hay en el renglon correspondiente
+ #####  // cuantos gatitos hay en el renglon correspondiente
+######  altura + 1
 
 $ ./mario
 Altura: 3
@@ -15,10 +15,10 @@ Altura: 3
 ####
 
 
-pedir  altura y almacenar el valor
+1. pedir  altura y almacenar el valor
 
-asegurarr que el valor es positivo mayor que  1
-1
+2. asegurarr que el valor es positivo mayor que  1
 
+3. hacer funcion que dibuje la piramide
 
 hacer unfor que cuente del valor i
