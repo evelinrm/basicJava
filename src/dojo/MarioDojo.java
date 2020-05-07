@@ -15,19 +15,13 @@ public class MarioDojo {
 			System.exit(-1);;
 		}
 
-//
-//
-
-
 	}
 
 	public static void dibujarPiramide(int altura) {
 		for(int renglon = 1; renglon <= altura; renglon++) {
 			dibujarEspacios(renglon, altura);
 			dibujarGatos(renglon, altura);
-	
-		
-		
+
 		//comoo determinar cuantos gatos hay
 			//numero de gatos es =renglon+ 1 
 			}
