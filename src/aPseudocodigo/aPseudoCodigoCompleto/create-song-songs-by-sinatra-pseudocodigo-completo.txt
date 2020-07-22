@@ -1,51 +1,65 @@
 1. abrir navegador
-* 驴Cuantos navegadores?驴Cuales?
+	* 緾uantos navegadores?緾uales?
+	
 2. ingresar la url
-* 驴cual url?
-* ir al sitio
+	* 縞ual url?
+	* ir al sitio
+
 3. verificar que la pagina cargo
-* imagen de sinatra
-* el link de login
+	* imagen de sinatra
+	* el link de login
+
 4. Dar click a link de login
+
 5. verificar que se abre pagina de login
-* campo de usuario
-* campo de password
-* boton de login
-* link de la pagina de login
+	* campo de usuario
+	* campo de password
+	* boton de login
+	* link de la pagina de login
+
 6. ingresar las credenciales
-* usuario es frank
-* password es sinatra
+	* usuario es frank
+	* password es sinatra
+
 7 darle click a bot贸n login
+
 8. verificar mensaje de que estoy logeado
-* mensaje de bienvenida dice "You are now logged in as frank"
-* aparece la imagen
-* link de log out
+	* mensaje de bienvenida dice "You are now logged in as frank"
+	* aparece la imagen
+	* link de log out
+
 9. Clic en songs tab
+
 10. Verificar pagina songs
-* Se muestra lista de canciones
+	* Se muestra lista de canciones
+
 11. Clic en boton create song
+
 12. Verificar que cargo pagina de crear canciones
-* Add a new song titulo
-* Campo de titulo
-* Campo de Duraci贸n
-* Campo de fecha
-* Campo de Letra
-* Boton de save song
-* Link de log out
+	* Add a new song titulo
+	* Campo de titulo
+	* Campo de Duraci贸n
+	* Campo de fecha
+	* Campo de Letra
+	* Boton de save song
+	* Link de log out
+
 13. Llenar campos correctamente
-* Campo de titulo (This love)
-* Campo de Duraci贸n (180)
-* Campo de fecha (01/12/1999)
-* Campo de Letra (This love has taken its toll on me)
+	* Campo de titulo (This love)
+	* Campo de Duraci贸n (180)
+	* Campo de fecha (01/12/1999)
+	* Campo de Letra (This love has taken its toll on me)
+
 14. Clic en el boton de guardar cancion
+
 15. Verificar que la pagina de cancion agregada satisfactoriamente es mostrada
-* Mensaje de "song successfully added"
-* Titulo de la nueva cancion
-* Fecha de liberaci贸n
-* Duracion
-* Letra
-* Mensaje de "Nobody has liked this song so far!"
-* Bot贸n de like
-* Link de edit this song
-* Bot贸n de delete this song
-* Link de log out
+	* Mensaje de "song successfully added"
+	* Titulo de la nueva cancion
+	* Fecha de liberaci贸n
+	* Duracion
+	* Letra
+	* Mensaje de "Nobody has liked this song so far!"
+	* Boton de like
+	* Link de edit this song
+	* Boton de delete this song
+	* Link de log out

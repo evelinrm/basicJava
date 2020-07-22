@@ -4,7 +4,7 @@
 contador_sandwiches es cero
 while(contador_sandwiches es menor que cinco){
 hacerSandwichJamon()
-contador_sandwiches se aumenta uno
+contador_sandwiches se aumenta en uno
 }
 
 contador_sandwiches es cero

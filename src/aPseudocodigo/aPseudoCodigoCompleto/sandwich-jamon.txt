@@ -1,4 +1,4 @@
-* Reúna los ingredientes
+* Reuna los ingredientes
     Pan ( Rebanado, Barra, Blanco, Integral, Trigo, Centeno )
     aderezo ( Mayonesa, crema, mostaza ),
     jamón ( Pierna, pavo )
@@ -6,9 +6,9 @@
     vegetales ( lechuga, tomate, cebolla, pepino, pepinillos )
     Picante ( Salsa, chile de diversos tipos)
 
-* Reúna los utensilios de cocina
+* Reuna los utensilios de cocina
     Cuchillos (Serrado, cebollero)
-    Tabla de picar (madera, plástico)
+    Tabla de picar (madera, plastico)
     Platos
     Servilletas
 
@@ -19,25 +19,25 @@
     Rebanar pepino
 
 * Tomar 2 rebanadas de pan
-    Abrir paquete de pan rebanado o rebanar barra de pan.  ¿Quitar orillas?
+    Abrir paquete de pan rebanado o rebanar barra de pan.  �Quitar orillas?
 
 * Embadurnar ambas rebanadas de pan
-    ¿Ambas con mayonesa? ¿Una con mayonesa otra con mostaza?
+    �Ambas con mayonesa? �Una con mayonesa otra con mostaza?
 
-* Colocar Jamón sobre un pan
-    ¿Una rebanada? ¿Dos?
+* Colocar Jamon sobre un pan
+    �Una rebanada? �Dos?
 
 * Colocar los vegetales
-    Agregar x hojas de lechuga sobre el jamón
-         “  x rodajas de tomate sobre la lechuga
-         “ x rodajas de cebolla sobre el tomate
-         “ x rodajas de pepino sobre la cebolla
+    Agregar x hojas de lechuga sobre el jamon
+         "  x rodajas de tomate sobre la lechuga
+         " x rodajas de cebolla sobre el tomate
+         " x rodajas de pepino sobre la cebolla
 
 * Agregar Picante
-    ¿Qué cantidad? ¿Qué tipo?
+    �Que cantidad? �Que tipo?
 
 * Colocar Segunda Rebanada de Pan
-    ¿Cortar por mitades? ¿Cuartos?
+    �Cortar por mitades? �Cuartos?
 
-* Envolver el sándwich
+* Envolver el sandwich
 

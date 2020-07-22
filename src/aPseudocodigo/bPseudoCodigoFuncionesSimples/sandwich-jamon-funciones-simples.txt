@@ -8,8 +8,8 @@ colocarIngredientes()
 agregarPicante()
 colocarSegundaRebanada()
 envolverSandwich()
-
 }
+
 reunirIngredientes(){
     Pan ( Rebanado, Barra, Blanco, Integral, Trigo, Centeno )
     aderezo ( Mayonesa, crema, mostaza, catsup )
@@ -34,27 +34,27 @@ prepararVegetales(){
 }
 
 tomarRebanadas(){
-    Abrir paquete de pan rebanado o rebanar barra de pan.  Â¿Quitar orillas?
+    Abrir paquete de pan rebanado o rebanar barra de pan.  ¿Quitar orillas?
 }
 
 huntarAderezos(){
-    Â¿Ambas con mayonesa? Â¿Una con mayonesa otra con mostaza?
+    ¿Ambas con mayonesa? ¿Una con mayonesa otra con mostaza?
 }
 
 colocarIngredientes(){
-    Jamon: Â¿Una rebanada? Â¿Dos?
-    Agregar x hojas de lechuga sobre el jamÃ³n
-         â€œ  x rodajas de tomate sobre la lechuga
-         â€œ x rodajas de cebolla sobre el tomate
-         â€œ x rodajas de pepino sobre la cebolla
+    Jamon: ¿Una rebanada? ¿Dos?
+    Agregar x hojas de lechuga sobre el jamon
+         "  x rodajas de tomate sobre la lechuga
+         " x rodajas de cebolla sobre el tomate
+         " x rodajas de pepino sobre la cebolla
 }
 
 agregarPicante(){
-    Â¿QuÃ© cantidad? Â¿QuÃ© tipo?
+    ¿Que cantidad? ¿Que tipo?
 }
 
 colocarSegundaRebanada(){
-    Â¿Cortar por mitades? Â¿Cuartos?
+    ¿Cortar por mitades? ¿Cuartos?
 }
 
 envolverSandwich(){

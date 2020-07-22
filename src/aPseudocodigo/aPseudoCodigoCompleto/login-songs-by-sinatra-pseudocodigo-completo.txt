@@ -1,22 +1,29 @@
 1. abrir navegador
-* Â¿Cuantos navegadores?Â¿Cuales?
+	*¿Cuantos navegadores? ¿Cuales?
+
 2. ingresar la url
-* Â¿cual url?
-* ir al sitio
+	* ¿cual url?
+	* ir al sitio
+
 3. verificar que la pagina cargo
-* imagen de sinatra
-* el link de login
+	* imagen de sinatra
+	* el link de login
+
 4. Dar click a link de login
+
 5. verificar que se abre pagina de login
-* campo de usuario
-* campo de password
-* boton de login
-* link de la pagina de login
+	* campo de usuario
+	* campo de password
+	* boton de login
+	* link de la pagina de login
+	
 6. ingresar las credenciales
-* usuario es frank
-* password es sinatra
-7 darle click a botÃ³n login
+	* usuario es frank
+	* password es sinatra
+
+7. darle click a boton login
+
 8. verificar mensaje de que estoy logeado
-* mensaje de bienvenida dice "You are now logged in as frank"
-* aparece la imagen
-* link de log out
+	* mensaje de bienvenida dice "You are now logged in as frank"
+	* aparece la imagen
+	* link de log out
