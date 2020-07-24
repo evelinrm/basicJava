@@ -20,6 +20,8 @@ public class CicloFor {
 			
 		}
 		
+		System.out.print("\n");
+		
 		for(int num = 10; num >= 0 ; num--) {
 			
 			Input.print(num);

@@ -5,7 +5,7 @@ createSong(username, password, title, lenght, date, lyrics){
         validarDatosCanciones(title, lenght, date, lyrics)
 }
 
-login(username, password){
+void login(username, password){
         Clic en username campo
         Llenar campo username (username)
         Clic en password campo
@@ -13,7 +13,7 @@ login(username, password){
         Clic en boton login
 }
 
-listarCanciones(){
+void listarCanciones(){
         Clic en canciones tab
 }
 

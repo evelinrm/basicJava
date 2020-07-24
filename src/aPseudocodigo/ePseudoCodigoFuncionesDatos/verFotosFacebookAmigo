@@ -8,6 +8,7 @@ void verFotosFacebookAmigo(nombreAmigo, nombreAlbum, numFotos, usuario, password
 boolean loginFacebook(usuario, password) {
 
 }
+
 boolean buscarAmigo(nombreAmigo) {
 
 }

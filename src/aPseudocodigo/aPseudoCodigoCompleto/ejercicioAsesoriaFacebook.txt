@@ -1,0 +1,61 @@
+2 Procesos diferentes
+
+Funciones:
+
+navegar(url){
+	navegar a la pagina de facebook
+	validar que carguen elementos de la pagina de login
+	 *user
+	 *password
+	 *login
+ }
+ 
+login(user,password){
+	ingresar usuario en el campo
+	ingresar password en el password
+	dar click en el boton del login
+	validar aparezca pagina home
+	 *elemento de busqueda
+	 *lupita
+	 *nombre
+	 *foto
+ }
+ 
+buscar(nombre){
+	ingresar el nombre de la persona/pagina en el campo de busqueda
+	validar que aparezcan opciones en un dropdown de resultados
+	click en boton de lupa
+	validar que aparecen varios resultados en la pestaña de 'Todo'
+}
+
+accion(tab, info){
+	if(tab=personas){
+		dar click en la pestaña de 'personas'
+		validar que aparecen mas resultados en la pestaña de 'personas'
+		hacer scroll hasta encontrar a la persona que tiene la informacion info
+		dar click en boton 'agregar'
+		validar que aparece 'solicitud de amistad enviada'
+	} else if (tab=pagina){
+		dar click en la pestaña de 'paginas'
+		valdar que aparecen mas resultados en la pestaña de 'paginas'
+		hacer scroll hasta encontrar a la pagina que tiene la informacion info
+		dar click en boton 'me gusta'
+		validar que aparece 'te gusta'
+}
+
+
+Procesos: 
+
+testAgregarContacto(){
+	navegar(url)
+	login(user, password)
+	buscar(persona)
+	accion(tab, info)
+	}
+
+testLikePagina(){
+	navegar(url)
+	login(user, password)
+	buscar(pagina) 
+	accion(tab, info)
+	}
