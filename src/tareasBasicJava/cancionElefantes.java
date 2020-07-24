@@ -1,4 +1,4 @@
-package iLoops;
+package tareasBasicJava;
 
 import libs.Input;
 
