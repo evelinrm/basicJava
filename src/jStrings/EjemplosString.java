@@ -25,17 +25,16 @@ public class EjemplosString {
 		Input.print(c + "\n");
 		Input.print(c.trim() + "\n");
 		
-		Input.print("Input your name: ");
-		String nombre = Input.get_string();
-		Input.print(nombre + "\n");
+		//Input.print("Input your name: ");
+		//String nombre = Input.get_string();
+		//Input.print(nombre + "\n");
+		
 		String name = "Pedro Perez";
 		name.length();
 		name.contains("Pedro");
 		name.startsWith("Pedro");
 		name.endsWith("Perez");
-		name.split(" ");
-
-
+		String[] nombresIndividuales = name.split(" ");
 	}
 
 }
