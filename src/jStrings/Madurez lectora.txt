@@ -1,7 +1,7 @@
 Implementa un programa que calcule el grado de escolaridad requerido para entender cierto texto, de acuerdo a las
 siguientes especificaciones:
 
-Texto: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Texto: Congratulations. Today is your day. You're off to Great Places. You're off and away.
 Grado: 3 Primaria
 
 Niveles de Complejidad Lectora:
