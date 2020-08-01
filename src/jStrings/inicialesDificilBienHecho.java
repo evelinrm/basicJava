@@ -22,8 +22,7 @@ public class inicialesDificilBienHecho {
 			
 			char actual = names[i].charAt(0);
 			char actualMayusc = Character.toUpperCase(actual);
-				result = result + actualMayusc;
-			
+				result = result + actualMayusc;			
 		}
 		
 		return result;

@@ -1,4 +1,3 @@
-
 package jStrings;
 
 import libs.Input;
