@@ -10,16 +10,18 @@ public class FindFacilOmar {
 		//pedirle al usuario que ingrese un numero
 		Input.print("Ingresar un numero: ");
 		int x = Input.get_int();
+		boolean encontrado =  false;
+		
 		for(int i=0; i<nums.length; i++) {	 //recorre el arreglo buscando ese numero
 			int actual = nums[i];
 			if (actual == x) {		
-				System.out.println(i + 1); 	//sí encontramos el numero dentro del arreglo, imprimimos la posicion.
-			} else {
-				System.out.println("Numero no encontrado");		//en caso contrario, decirle al usuario que no se encuentra ese numero
+				System.out.println("Numero encontrado en posicion: " + i); 	//sí encontramos el numero dentro del arreglo, imprimimos la posicion.
+				encontrado = true;
 			}
-			
 		}
-		
+		if (encontrado == false) {
+			System.out.println("Numero no encontrado");
+		}
 	}
 
 }
